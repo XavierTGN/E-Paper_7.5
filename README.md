@@ -1,6 +1,5 @@
 Para usar el ESP32-S3 WROOM-1 (por ejemplo, con chip ESP32-S3-MON16R8 que tiene 16 MB Flash y 8 MB PSRAM)
 en el Arduino IDE, sigue estos pasos para configurarlo correctamente y evitar errores de memoria como el que viste.
-
 ✅ Configuración recomendada para el ESP32-S3 WROOM-1 (MON16R8) en Arduino IDE
 1.-Placa
 ESP32S3 Dev Module

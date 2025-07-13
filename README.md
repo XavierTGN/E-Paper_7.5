@@ -20,3 +20,11 @@ Upload Speed
 921600 (si falla, baja a 460800 o 115200)
 Port
 Selecciona el puerto USB correspondiente (el chip tiene USB nativo, así que aparece como “ESP32S3 USB JTAG” o similar)
+
+const unsigned char gImage_white[624] = { /* 0X80,0X01,0X68,0X00,0X30,0X00, */
+<img width="918" height="562" alt="image" src="https://github.com/user-attachments/assets/7988d1bf-ce37-47d4-a488-7eb16a93d3e5" />
+
+const unsigned char gImage_RW1[48000]={/*red and white picture*/
+<img width="919" height="557" alt="image" src="https://github.com/user-attachments/assets/28c4c1ab-f97a-4fe3-80ad-827fe85dcaae" />
+
+
